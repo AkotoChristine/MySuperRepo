@@ -1,1 +1,1 @@
-checkout a new repository on git
+checkout a new directory
